@@ -1,0 +1,40 @@
+body{
+	margin:0px;
+	padding: 0px;
+}
+
+.magenta{
+	background-color: #ee3e64;
+	height: 200px;
+	width: 200px;	
+	position:absolute;
+	left: 0px;
+	top:0px;
+}
+
+.azul{
+	background-color: #44accf;
+	height: 200px;
+	width: 200px;
+	position:absolute;
+	top:0px;
+	right:0px;
+}
+
+.verde{
+	background-color: #b7d84b;
+	height: 200px;
+	width: 200px;
+	position:absolute;
+	left: 0px;
+	bottom:0px;
+}
+
+.amarillo{
+	background-color: yellow;
+	height: 200px;
+	width: 200px;
+	position:absolute;
+	right: 0px;
+	bottom:0px;
+}
